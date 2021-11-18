@@ -47,7 +47,8 @@ body {
 }
 
 #nav-bold {
-  color: black;
+  color: #646060;
+  font-weight: 500;
 }
 .nav-link {
   color: rgb(160, 155, 155);
